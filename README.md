@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning JavaScript、Vue
 - 💬 Like to browse various technical communities to expand knowledge
 - 📫 How to reach me: LXS13613892054(weixin)
-- 📝 I will write some technical blogs in CSDN
+- 📝 I will write some technical blogs in [csdn](https://blog.csdn.net/wuxian_wj?spm=1001.2101.3001.5343)
+
+
 
 <!--
 **strivingXian/strivingXian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

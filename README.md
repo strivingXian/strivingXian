@@ -1,7 +1,14 @@
-### Hi there 👋
+## Hi I'm strivingXian 👋
+前端开发工程师
+
+- 🔭 I’m currently working on China Henan
+- 🌱 I’m currently learning JavaScript、Vue
+- 💬 Like to browse various technical communities to expand knowledge
+- 📫 How to reach me: LXS13613892054(weixin)
+- 📝 I will write some technical blogs in CSDN
 
 <!--
-**LiXiaoShanxm/LiXiaoShanxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**strivingXian/strivingXian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
